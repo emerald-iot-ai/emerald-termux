@@ -44,4 +44,7 @@ A Java application to be run inside Termux on an Android Smartphone. Uses Termux
 9. After recording your sample press the `Stop recording` button
 10. Follow the instructions in the README of [Emerald Termux CLI](https://github.com/emerald-iot-ai/emerald-termux-cli) on how to pause and resume sensor data sampling with Emerald Termux and shutting down the application when you're done
 
+## Cleanup
+After shutting down the Emerald Termux app, run `termux-sensor -s Accelerometer` and kill it with Ctrl+C to clear the sensor and be able to run the Emerald Termux app anew, if you so choose.
+
 **Happy recording! :-)**
