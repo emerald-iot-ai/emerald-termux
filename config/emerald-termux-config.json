@@ -1,0 +1,6 @@
+{
+    "recorderClientConfig": {
+        "host": "<enter the IP address of your laptop or PC running the Emerald DL4J Data Recorder>",
+        "port": "5000"
+    }
+}
