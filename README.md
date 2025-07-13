@@ -48,4 +48,5 @@ A Java application to be run inside Termux on an Android Smartphone. Uses Termux
 After shutting down the Emerald Termux app, run `termux-sensor -s Accelerometer` and kill it with Ctrl+C to clear the sensor and be able to run the Emerald Termux app anew, if you so choose.
 
 That's it!
+
 **Happy recording! :-)**
