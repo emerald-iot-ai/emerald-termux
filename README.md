@@ -1,7 +1,7 @@
 # Emerald Termux
 A Java application to be run inside Termux on an Android Smartphone. Uses Termux:API to read sensor data.
 
-## Prerequisits
+## Prerequisites
 1. Have access to an Android Smartphone capable of running F-Droid and has an Accelerometer
 2. A laptop or PC in the same TCP/IP network as your Smartphone (e.g. your local WiFi network) 
 3. Install F-Droid from [f-droid.org](https://f-droid.org/) on your Smartphone
